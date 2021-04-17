@@ -7,6 +7,7 @@
 /**
  *
  * @author Daniel
+ * @author Lucas
  */
 
 public class CorridaDeGrilos extends Thread {
